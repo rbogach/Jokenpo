@@ -1,0 +1,9 @@
+<resources>
+        <string name="app_name">Jokenpo</string>
+        <string name="text_view_name">Bem vindo ao \nJokenpo </string>
+        <string name="button_name">Iniciar </string>
+        <string name="second_screen_title">Jokepo </string>
+        <string name="menu_reload">Reiniciar </string>
+        <string name="jogadorUm"> Jogador 1</string>
+        <string name="resultado"> Resultado </string>
+</resources>
