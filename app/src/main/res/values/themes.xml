@@ -27,4 +27,12 @@
         <item name="android:textColorPrimary">@color/white</item>
         <item name="popupMenuBackground">@color/purple_200</item>
     </style>
+
+    <style name="BottomNavigationView" parent="@style/TextAppearance.AppCompat.Caption">
+        <item name="android:textSize">20dp</item>
+    </style>
+
+    <style name="BottomNavigationView.Active" parent="@style/TextAppearance.AppCompat.Caption">
+        <item name="android:textSize">20dp</item>
+    </style>
 </resources>

@@ -1,5 +1,5 @@
 package com.example.jokenpo
-
+//A activity da Tela Inicial
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/playerOne_bottom_nav_bar"
+        android:title="@string/playerOne_botoom_nav_bar"
+
+        />
+    <item
+        android:id="@+id/result_bottom_nav_bar"
+        android:title="@string/result_bottom_nav_bar"
+
+        />
+
+
+</menu>

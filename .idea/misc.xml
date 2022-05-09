@@ -3,10 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/roman/AndroidStudioProjects/Jokenpo/app/src/main/res/drawable/ic_menu.xml" value="0.1" />
         <entry key="..\:/Users/roman/AndroidStudioProjects/Jokenpo/app/src/main/res/layout/activity_main.xml" value="0.20260416666666667" />
-        <entry key="..\:/Users/roman/AndroidStudioProjects/Jokenpo/app/src/main/res/layout/activity_main2.xml" value="0.15670289855072464" />
-        <entry key="..\:/Users/roman/AndroidStudioProjects/Jokenpo/app/src/main/res/layout/activity_main3.xml" value="0.15670289855072464" />
+        <entry key="..\:/Users/roman/AndroidStudioProjects/Jokenpo/app/src/main/res/layout/activity_main2.xml" value="0.264" />
+        <entry key="..\:/Users/roman/AndroidStudioProjects/Jokenpo/app/src/main/res/layout/activity_main3.xml" value="0.128" />
         <entry key="..\:/Users/roman/AndroidStudioProjects/Jokenpo/app/src/main/res/layout/activity_main4.xml" value="0.15670289855072464" />
+        <entry key="..\:/Users/roman/AndroidStudioProjects/Jokenpo/app/src/main/res/layout/menu_header.xml" value="0.15670289855072464" />
+        <entry key="..\:/Users/roman/AndroidStudioProjects/Jokenpo/app/src/main/res/menu/bottom_nav_menu.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/roman/AndroidStudioProjects/Jokenpo/app/src/main/res/menu/drawer_menu.xml" value="0.22083333333333333" />
         <entry key="..\:/Users/roman/AndroidStudioProjects/Jokenpo/app/src/main/res/menu/second_screen_menu.xml" value="0.22083333333333333" />
       </map>
     </option>
